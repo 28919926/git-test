@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Fork Me! FCC: Test Suite Template</title>
+    <link rel="stylesheet" href="css/style.css" />
+  </head>
+
+  <body>
+    <script src="https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js"></script>
+    <nav id="navbar">
+      <ol id="menu">
+        <li>Nati Gallaries</li>
+        <li>Nati Contacts</li>
+        <li>
+          <a href="https://github.com/NatiDeme/MicroverseTrials" target="_blank"
+            >Desmond Pages
+          </a>
+        </li>
+      </ol>
+    </nav>
+    <section id="welcome-section">
+      <h1>Welcome to my portfolio page</h1>
+    </section>
+    <section id="projects">
+      <div class="project">
+        <a href="https://github.com/NatiDeme/MicroverseTrials"
+          >My First Project at Microverse</a
+        >
+      </div>
+    </section>
+
+    <
+    <script src="js/index.js"></script>
+  </body>
+</html>
+<style>
